@@ -19,4 +19,4 @@ jobs:
             - uses: denoland/setup-deno@v2
 
             - name: Publish and bump package
-              run: deno run -A jsr:@msrass/scripts/jsr-publish@0.1.2
+              run: deno run -A jsr:@msrass/scripts@0.1.2/jsr-publish
