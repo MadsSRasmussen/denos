@@ -666,7 +666,7 @@ export class Matrix<T extends MatrixDataType> {
         that: Matrix<T>,
         transform: (x: number, y: number) => number,
         out?: Matrix<T>,
-    ) {
+    ): Matrix<T> {
         return Matrix.zip(this, that, transform, out);
     }
 
