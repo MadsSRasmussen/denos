@@ -1,6 +1,7 @@
 {
     "workspace": [
         "packages/matrices",
+        "packages/networks",
         "packages/scripts"
     ],
     "tasks": {

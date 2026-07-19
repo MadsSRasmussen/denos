@@ -7,11 +7,16 @@ This is a collection of typescript code developed with `Deno` as the runtime, pu
 The following is a complete list of packages in the repository:
 
 - [matrices](#matrices)
+- [networks](#networks)
 - [scripts](#scripts)
 
 ### matrices
 
 A library containg a `Matrix` class with associated matrix operations.
+
+### networks
+
+A library containing code to build neural networks.
 
 ### scripts
 
