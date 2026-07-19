@@ -1,0 +1,8 @@
+{
+    "name": "@msrass/scripts",
+    "version": "0.0.0",
+    "license": "MIT",
+    "exports": {
+        "./jsr-publish": "./src/scripts/jsr-publish.ts"
+    }
+}
