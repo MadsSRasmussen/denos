@@ -1,6 +1,7 @@
 {
     "workspace": [
-        "packages/matrices"
+        "packages/matrices",
+        "packages/scripts"
     ],
     "tasks": {
         "test": "deno task test:unit",
